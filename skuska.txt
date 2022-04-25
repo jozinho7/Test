@@ -29,3 +29,12 @@ git log -1 --oneline
 zobrazi posledny commit v skratenom zapise na jednom riadku
 
 
+No a uz som tu.
+git pull
+-stiahne aktualnu verziu projektu zo servera
+
+git push
+- nataci vsetky zmeni a commity na server
+
+git chceckour a nazov suboru cerveneho 
+- zmaze vsetky zmeny
