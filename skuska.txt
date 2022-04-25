@@ -1,0 +1,31 @@
+skusam git
+vetva -branch
+zlucenie - merge
+potiahnut - pull
+potlacit - push
+
+git status
+aktualny stav
+
+git add
+pridanie git suboru
+
+git commit -m ""
+pridane zmeny publikuje do gitu
+
+git diff nazov suboru
+-ukaze rozdiely vykonane v predchadzajucej verzii voci aktualnej {nazov suboru je cerveny, ked dam git status}
+
+git log
+nahlad kto a kedy spravil posledne zmeny
+
+git log --oneline
+zobrazi vsetky commity v jednom riadku, skrateny zapis
+
+git log -2
+zobrazi posledne dva commity
+
+git log -1 --oneline
+zobrazi posledny commit v skratenom zapise na jednom riadku
+
+
